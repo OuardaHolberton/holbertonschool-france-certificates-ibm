@@ -42,7 +42,7 @@ This trimester includes **2 introductory courses**:
 ## ✅ Results
 | Task | Certificate | Score | Status |
 |------|-------------|-------|--------|
-| 0 | Introduction to Open Source | - | ✅ Completed |
+| 0 | Introduction to Open Source | 98 | ✅ Completed |
 | 1 | Agile Explorer (IBM) | 87% | ✅ Completed |
 
 ---
