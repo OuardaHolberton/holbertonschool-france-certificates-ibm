@@ -9,26 +9,17 @@
 
 ---
 
-## 📂 Project Content
-This trimester includes **2 introductory courses**:
-
-1. **Introduction to Open Source Software**
-   - Duration: ~4 hours
-   - No prerequisites
-
-   📂 Repository: `holbertonschool-france-certificates-ibm`
-   - Directory: `certificates-trimester-1`
-   - File: `certificate-oss`
+## 📝 Description
+This repository contains the IBM digital certificates obtained during the
+Holberton School France program, in partnership with IBM SkillsBuild.
 
 ---
 
-2. **Agile Explorer - Powered by Agile at IBM**
-   - Duration: ~1 day
-   - No prerequisites
-
-   📂 Repository: `holbertonschool-france-certificates-ibm`
-   - Directory: `certificates-trimester-1`
-   - File: `certificate-agile`
+## 📂 Structure
+holbertonschool-france-certificates-ibm/
+└── certificates-trimester-1/
+├── certificate-oss
+└── certificate-agile
 
 ---
 
@@ -39,11 +30,11 @@ This trimester includes **2 introductory courses**:
 
 ---
 
-## ✅ Results
-| Task | Certificate | Status |
-|------|-------------|-------|--------|
-| 0 | Introduction to Open Source| ✅ Completed |
-| 1 | Agile Explorer (IBM) | ✅ Completed |
+## ✅ Trimester 1
+| Certificate | Status |
+|---|---|
+| Introduction to Open Source | ✅ Completed |
+| Agile Explorer (IBM) | ✅ Completed |
 
 ---
 
