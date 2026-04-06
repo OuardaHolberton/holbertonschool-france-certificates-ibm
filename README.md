@@ -15,8 +15,8 @@ holbertonschool-france-certificates-ibm/
 ## Trimester 1
 | Certificate | Status |
 |---|---|
-| Introduction to Open Source | In progress |
-| Agile Methodology | Not started |
+| Introduction to Open Source |  ✅ Completed |
+| Agile Methodology |In progress |
 
 ## Author
 **Ouarda** - Holberton School Lille
