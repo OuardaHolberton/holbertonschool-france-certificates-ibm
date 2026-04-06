@@ -5,10 +5,12 @@ This repository contains the IBM digital certificates obtained during the
 Holberton School France program, in partnership with IBM SkillsBuild.
 
 ## Structure
+```
 holbertonschool-france-certificates-ibm/
 └── certificates-trimester-1/
-├── certificate-oss
-└── certificate-agile
+    ├── certificate-oss
+    └── certificate-agile
+```
 
 ## Trimester 1
 | Certificate | Status |
